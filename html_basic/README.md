@@ -1,0 +1,1 @@
+Welcome to this repo! This repository will house my basic HTML 5 learnings on fundamental topics such as Elements, attributes, tags, semantics, forms, tables, audio, video, etc.
